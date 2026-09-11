@@ -1,0 +1,6 @@
+78 SQLITE-OK                     VALUE 0.
+78 SQLITE-ERROR                  VALUE 1.
+01 SQLITE-VARS.
+   05 SQLITE-HANDLE              USAGE POINTER VALUE NULL.
+   05 SQLITE-RC                  PIC S9(9) COMP-5 VALUE 0.
+   05 SQLITE-ERR-MSG             USAGE POINTER VALUE NULL.
