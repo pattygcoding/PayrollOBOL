@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<h1>PayrollOBOL</h1>
 	<p><strong>COBOL payroll processing with a SQLite ledger and a Svelte operations dashboard.</strong></p>
 	<p>
